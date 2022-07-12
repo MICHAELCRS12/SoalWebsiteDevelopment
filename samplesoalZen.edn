@@ -1,0 +1,577 @@
+
+clj꞉progen.Generatemath꞉> 
+#'progen.GenerateEnglish/gen-options
+clj꞉progen.GenerateEnglish꞉> 
+#'progen.GenerateEnglish/mapping
+clj꞉progen.GenerateEnglish꞉> 
+#'progen.GenerateEnglish/generate
+clj꞉progen.GenerateEnglish꞉> 
+[{:topic :english,
+  :pembahasan
+  "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Yayan merupakan subject, sells merupakan verb, dan speaker merupakan object. <br>\n Jadi, jawabanya adalah sells.\n",
+  :soal
+  {:soal-text "\n\nYayan sells speaker <br>\n Dari sentence di atas, kira-kira yang mana verbsnya? \n</p>\n\n\n",
+   :option [[false "speaker" 0] [false "Yayan" 1] [true "sells" 2]],
+   :jawaban "C"},
+  :probelm-id "a03da38cc24d48f0adbca1b16f6ef731"}
+ {:topic :english,
+  :pembahasan
+  "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Joni merupakan subject, uses merupakan verb, dan air conditioner merupakan object. <br>\n Jadi, jawabanya adalah uses.\n",
+  :soal
+  {:soal-text "\n\nJoni uses air conditioner <br>\n Dari sentence di atas, kira-kira yang mana verbsnya? \n</p>\n\n\n",
+   :option [[false "Joni" 0] [true "uses" 1] [false "air conditioner" 2]],
+   :jawaban "B"},
+  :probelm-id "05ca77c7e29643e6a6f0c1e75bd52143"}
+ {:topic :english,
+  :pembahasan
+  "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Tio merupakan subject, sells merupakan verb, dan kettle merupakan object. <br>\n Jadi, jawabanya adalah sells.\n",
+  :soal
+  {:soal-text "\n\nTio sells kettle <br>\n Dari sentence di atas, kira-kira yang mana verbsnya? \n</p>\n\n\n",
+   :option [[true "sells" 0] [false "kettle" 1] [false "Tio" 2]],
+   :jawaban "A"},
+  :probelm-id "0fe5141bb4664766b5af97aaee9922bf"}
+ {:topic :english,
+  :pembahasan
+  "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, she merupakan subject, has merupakan verb, dan television merupakan object. <br>\n Jadi, jawabanya adalah has.\n",
+  :soal
+  {:soal-text "\n\nshe has television <br>\n Dari sentence di atas, kira-kira yang mana verbsnya? \n</p>\n\n\n",
+   :option [[false "television" 0] [true "has" 1] [false "she" 2]],
+   :jawaban "B"},
+  :probelm-id "5306aea5931b49e5bb561b658a509be0"}
+ {:topic :english,
+  :pembahasan
+  "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Leo merupakan subject, sees merupakan verb, dan air conditioner merupakan object. <br>\n Jadi, jawabanya adalah sees.\n",
+  :soal
+  {:soal-text "\n\nLeo sees air conditioner <br>\n Dari sentence di atas, kira-kira yang mana verbsnya? \n</p>\n\n\n",
+   :option [[false "Leo" 0] [false "air conditioner" 1] [true "sees" 2]],
+   :jawaban "C"},
+  :probelm-id "0d9bcddd4c62462f886ea4aebcafe34f"}
+ {:topic :english,
+  :pembahasan
+  "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, he merupakan subject, has merupakan verb, dan iron merupakan object. <br>\n Jadi, jawabanya adalah has.\n",
+  :soal
+  {:soal-text "\n\nhe has iron <br>\n Dari sentence di atas, kira-kira yang mana verbsnya? \n</p>\n\n\n",
+   :option [[true "has" 0] [false "he" 1] [false "iron" 2]],
+   :jawaban "A"},
+  :probelm-id "e9c1c07fbd13498e9632d29b7e9a4776"}
+ {:topic :english,
+  :pembahasan
+  "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Rachel merupakan subject, buys merupakan verb, dan air cooler merupakan object. <br>\n Jadi, jawabanya adalah buys.\n",
+  :soal
+  {:soal-text "\n\nRachel buys air cooler <br>\n Dari sentence di atas, kira-kira yang mana verbsnya? \n</p>\n\n\n",
+   :option [[false "air cooler" 0] [true "buys" 1] [false "Rachel" 2]],
+   :jawaban "B"},
+  :probelm-id "4c18ecd4606342659548edcb059c0078"}
+ {:topic :english,
+  :pembahasan
+  "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Leni merupakan subject, uses merupakan verb, dan iron merupakan object. <br>\n Jadi, jawabanya adalah uses.\n",
+  :soal
+  {:soal-text "\n\nLeni uses iron <br>\n Dari sentence di atas, kira-kira yang mana verbsnya? \n</p>\n\n\n",
+   :option [[false "Leni" 0] [false "iron" 1] [true "uses" 2]],
+   :jawaban "C"},
+  :probelm-id "41b193e47d0d47b186a17a16a8cec0c4"}
+ {:topic :english,
+  :pembahasan
+  "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Leo merupakan subject, sells merupakan verb, dan vacuum cleaner merupakan object. <br>\n Jadi, jawabanya adalah sells.\n",
+  :soal
+  {:soal-text "\n\nLeo sells vacuum cleaner <br>\n Dari sentence di atas, kira-kira yang mana verbsnya? \n</p>\n\n\n",
+   :option [[true "sells" 0] [false "Leo" 1] [false "vacuum cleaner" 2]],
+   :jawaban "A"},
+  :probelm-id "95e3ccdd6e5e482aa80fd84c2b61c5b1"}
+ {:topic :english,
+  :pembahasan
+  "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Adit merupakan subject, has merupakan verb, dan freezer merupakan object. <br>\n Jadi, jawabanya adalah has.\n",
+  :soal
+  {:soal-text "\n\nAdit has freezer <br>\n Dari sentence di atas, kira-kira yang mana verbsnya? \n</p>\n\n\n",
+   :option [[true "has" 0] [false "freezer" 1] [false "Adit" 2]],
+   :jawaban "A"},
+  :probelm-id "63b616979070455c919f8904ef350ec5"}]
+clj꞉progen.GenerateEnglish꞉> 
+#'progen.Generatemath/gen-options
+clj꞉progen.Generatemath꞉> 
+#'progen.Generatemath/mapping
+clj꞉progen.Generatemath꞉> 
+#'progen.Generatemath/generate
+clj꞉progen.Generatemath꞉> 
+[{:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 4 dan b (beda) = U2 - U1 = 40 - 4 = 36. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 36 aja. <br>\n Sehingga pola selanjutnya itu adalah 148. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 4, 40, 76, 112, ... \n</p>\n\n\n",
+   :option [[false 173 0] [false 161 1] [false 155 2] [true 148 3]],
+   :jawaban "D"},
+  :probelm-id "397865f67fc34731ab0583463def2e46"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 31 dan b (beda) = U2 - U1 = 63 - 31 = 32. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 32 aja. <br>\n Sehingga pola selanjutnya itu adalah 159. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 31, 63, 95, 127, ... \n</p>\n\n\n",
+   :option [[true 159 0] [false 161 1] [false 177 2] [false 173 3]],
+   :jawaban "A"},
+  :probelm-id "030d28b43181457ead3f56f271432ebc"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 1 dan b (beda) = U2 - U1 = 41 - 1 = 40. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 40 aja. <br>\n Sehingga pola selanjutnya itu adalah 161. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 1, 41, 81, 121, ... \n</p>\n\n\n",
+   :option [[false 173 0] [true 161 1] [false 167 2] [false 180 3]],
+   :jawaban "B"},
+  :probelm-id "5c80ec74872c493a9c338106d1aba76e"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 40 dan b (beda) = U2 - U1 = 50 - 40 = 10. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 10 aja. <br>\n Sehingga pola selanjutnya itu adalah 80. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 40, 50, 60, 70, ... \n</p>\n\n\n",
+   :option [[true 80 0] [false 97 1] [false 86 2] [false 92 3]],
+   :jawaban "A"},
+  :probelm-id "292f39e091c147a8a50dbf37108ecc22"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 22 dan b (beda) = U2 - U1 = 28 - 22 = 6. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 6 aja. <br>\n Sehingga pola selanjutnya itu adalah 46. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 22, 28, 34, 40, ... \n</p>\n\n\n",
+   :option [[false 67 0] [false 50 1] [false 57 2] [true 46 3]],
+   :jawaban "D"},
+  :probelm-id "1cf037bc1cda434bac882f3ab775ba2f"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 22 dan b (beda) = U2 - U1 = 34 - 22 = 12. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 12 aja. <br>\n Sehingga pola selanjutnya itu adalah 70. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 22, 34, 46, 58, ... \n</p>\n\n\n",
+   :option [[false 76 0] [false 89 1] [true 70 2] [false 76 3]],
+   :jawaban "C"},
+  :probelm-id "83c967c2e0ca4f5587c28f01f488f373"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 2 dan b (beda) = U2 - U1 = 10 - 2 = 8. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 8 aja. <br>\n Sehingga pola selanjutnya itu adalah 34. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 2, 10, 18, 26, ... \n</p>\n\n\n",
+   :option [[false 36 0] [false 37 1] [false 51 2] [true 34 3]],
+   :jawaban "D"},
+  :probelm-id "3ca5b704c66449aaac5dd4ddfd3bbbc9"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 34 dan b (beda) = U2 - U1 = 85 - 34 = 51. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 51 aja. <br>\n Sehingga pola selanjutnya itu adalah 238. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 34, 85, 136, 187, ... \n</p>\n\n\n",
+   :option [[false 256 0] [false 251 1] [true 238 2] [false 247 3]],
+   :jawaban "C"},
+  :probelm-id "6dbc97e0f19c4e428c814df58481857d"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 44 dan b (beda) = U2 - U1 = 71 - 44 = 27. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 27 aja. <br>\n Sehingga pola selanjutnya itu adalah 152. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 44, 71, 98, 125, ... \n</p>\n\n\n",
+   :option [[false 164 0] [false 159 1] [false 178 2] [true 152 3]],
+   :jawaban "D"},
+  :probelm-id "3190c3f1a2dc40af99e30e12750c992c"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 18 dan b (beda) = U2 - U1 = 62 - 18 = 44. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 44 aja. <br>\n Sehingga pola selanjutnya itu adalah 194. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 18, 62, 106, 150, ... \n</p>\n\n\n",
+   :option [[false 202 0] [true 194 1] [false 200 2] [false 201 3]],
+   :jawaban "B"},
+  :probelm-id "bb3f7f908bde410b8dcdcc5fc3424048"}]
+clj꞉progen.Generatemath꞉> 
+[{:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 13 m dan lebar = 13 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 5 kali Lani mengelilingi lapangan dengan keliling lapangan (2 x (13 + 13)). <br>\n Sehingga jarak yang ditempuh Lani adalah 260 m. \n",
+  :soal
+  {:soal-text
+   "\n\nSiLani lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 5 kali. <br>\n Jika panjang lapangan sebesar 13 m dan lebar lapangan sebesar 13 m, <br>\n berapa meterkah jarak yang ditempuh Lani? \n</p>\n\n\n",
+   :option [[true 260 0] [false 276 1] [false 268 2] [false 277 3]],
+   :jawaban "A"},
+  :probelm-id "588ec6e10aba41a1b2fe0ef5bac15886"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 6 m dan lebar = 8 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 12 kali Tio mengelilingi lapangan dengan keliling lapangan (2 x (6 + 8)). <br>\n Sehingga jarak yang ditempuh Tio adalah 336 m. \n",
+  :soal
+  {:soal-text
+   "\n\nSiTio lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 12 kali. <br>\n Jika panjang lapangan sebesar 6 m dan lebar lapangan sebesar 8 m, <br>\n berapa meterkah jarak yang ditempuh Tio? \n</p>\n\n\n",
+   :option [[false 346 0] [false 344 1] [false 359 2] [true 336 3]],
+   :jawaban "D"},
+  :probelm-id "5d0b11b204124b44a343c585355a2016"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 13 m dan lebar = 5 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 7 kali Sasa mengelilingi lapangan dengan keliling lapangan (2 x (13 + 5)). <br>\n Sehingga jarak yang ditempuh Sasa adalah 252 m. \n",
+  :soal
+  {:soal-text
+   "\n\nSiSasa lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 7 kali. <br>\n Jika panjang lapangan sebesar 13 m dan lebar lapangan sebesar 5 m, <br>\n berapa meterkah jarak yang ditempuh Sasa? \n</p>\n\n\n",
+   :option [[false 268 0] [false 253 1] [false 254 2] [true 252 3]],
+   :jawaban "D"},
+  :probelm-id "4e55069bf11b42b4a219e4fd6ae1fef7"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 5 m dan lebar = 14 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 14 kali Hani mengelilingi lapangan dengan keliling lapangan (2 x (5 + 14)). <br>\n Sehingga jarak yang ditempuh Hani adalah 532 m. \n",
+  :soal
+  {:soal-text
+   "\n\nSiHani lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 14 kali. <br>\n Jika panjang lapangan sebesar 5 m dan lebar lapangan sebesar 14 m, <br>\n berapa meterkah jarak yang ditempuh Hani? \n</p>\n\n\n",
+   :option [[false 545 0] [false 539 1] [false 542 2] [true 532 3]],
+   :jawaban "D"},
+  :probelm-id "af79ae7d4e844d7cbc56febb7db3cfb0"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 9 m dan lebar = 1 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 14 kali Badi mengelilingi lapangan dengan keliling lapangan (2 x (9 + 1)). <br>\n Sehingga jarak yang ditempuh Badi adalah 280 m. \n",
+  :soal
+  {:soal-text
+   "\n\nSiBadi lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 14 kali. <br>\n Jika panjang lapangan sebesar 9 m dan lebar lapangan sebesar 1 m, <br>\n berapa meterkah jarak yang ditempuh Badi? \n</p>\n\n\n",
+   :option [[false 282 0] [true 280 1] [false 290 2] [false 295 3]],
+   :jawaban "B"},
+  :probelm-id "88223f8dacab4fdf9097efe19ebceb52"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 14 m dan lebar = 12 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 3 kali Joko mengelilingi lapangan dengan keliling lapangan (2 x (14 + 12)). <br>\n Sehingga jarak yang ditempuh Joko adalah 156 m. \n",
+  :soal
+  {:soal-text
+   "\n\nSiJoko lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 3 kali. <br>\n Jika panjang lapangan sebesar 14 m dan lebar lapangan sebesar 12 m, <br>\n berapa meterkah jarak yang ditempuh Joko? \n</p>\n\n\n",
+   :option [[false 171 0] [true 156 1] [false 168 2] [false 158 3]],
+   :jawaban "B"},
+  :probelm-id "32753d6e20794b4b8fbcfdfad3d4e60d"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 2 m dan lebar = 15 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 10 kali Dani mengelilingi lapangan dengan keliling lapangan (2 x (2 + 15)). <br>\n Sehingga jarak yang ditempuh Dani adalah 340 m. \n",
+  :soal
+  {:soal-text
+   "\n\nSiDani lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 10 kali. <br>\n Jika panjang lapangan sebesar 2 m dan lebar lapangan sebesar 15 m, <br>\n berapa meterkah jarak yang ditempuh Dani? \n</p>\n\n\n",
+   :option [[false 356 0] [false 350 1] [false 356 2] [true 340 3]],
+   :jawaban "D"},
+  :probelm-id "f6aaabfbcba14c13894e7283e4c91177"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 13 m dan lebar = 14 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 15 kali Lani mengelilingi lapangan dengan keliling lapangan (2 x (13 + 14)). <br>\n Sehingga jarak yang ditempuh Lani adalah 810 m. \n",
+  :soal
+  {:soal-text
+   "\n\nSiLani lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 15 kali. <br>\n Jika panjang lapangan sebesar 13 m dan lebar lapangan sebesar 14 m, <br>\n berapa meterkah jarak yang ditempuh Lani? \n</p>\n\n\n",
+   :option [[true 810 0] [false 819 1] [false 819 2] [false 822 3]],
+   :jawaban "A"},
+  :probelm-id "d6b3268648864fff80384478c000dfb7"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 7 m dan lebar = 6 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 2 kali Dani mengelilingi lapangan dengan keliling lapangan (2 x (7 + 6)). <br>\n Sehingga jarak yang ditempuh Dani adalah 52 m. \n",
+  :soal
+  {:soal-text
+   "\n\nSiDani lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 2 kali. <br>\n Jika panjang lapangan sebesar 7 m dan lebar lapangan sebesar 6 m, <br>\n berapa meterkah jarak yang ditempuh Dani? \n</p>\n\n\n",
+   :option [[true 52 0] [false 58 1] [false 60 2] [false 64 3]],
+   :jawaban "A"},
+  :probelm-id "77c70f63fd91436d936cb1388911e400"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 8 m dan lebar = 12 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 14 kali Ani mengelilingi lapangan dengan keliling lapangan (2 x (8 + 12)). <br>\n Sehingga jarak yang ditempuh Ani adalah 560 m. \n",
+  :soal
+  {:soal-text
+   "\n\nSiAni lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 14 kali. <br>\n Jika panjang lapangan sebesar 8 m dan lebar lapangan sebesar 12 m, <br>\n berapa meterkah jarak yang ditempuh Ani? \n</p>\n\n\n",
+   :option [[true 560 0] [false 568 1] [false 566 2] [false 577 3]],
+   :jawaban "A"},
+  :probelm-id "de890763ce7e4dc2bd0aa0fee8fd74e3"}]
+clj꞉progen.Generatemath꞉> 
+[{:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 5 dan r (rasio) = U2 / U1 = 15.0 / 5 = 3. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 3. <br>\n Sehingga pola selanjutnya itu adalah 135.0. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 5, 15.0, 45.0, ... \n</p>\n\n\n",
+   :option [[false 144.0 0] [false 139.0 1] [false 142.0 2] [true 135.0 3]],
+   :jawaban "D"},
+  :probelm-id "6790e23622b84b92843ebdbb01640bb2"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 2 dan r (rasio) = U2 / U1 = 4.0 / 2 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 16.0. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 2, 4.0, 8.0, ... \n</p>\n\n\n",
+   :option [[false 26.0 0] [false 16.0 1] [true 16.0 2] [false 22.0 3]],
+   :jawaban "C"},
+  :probelm-id "b797cefbb22d44c99506ac73fe8cbfc4"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 3 dan r (rasio) = U2 / U1 = 9.0 / 3 = 3. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 3. <br>\n Sehingga pola selanjutnya itu adalah 81.0. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 3, 9.0, 27.0, ... \n</p>\n\n\n",
+   :option [[true 81.0 0] [false 90.0 1] [false 84.0 2] [false 104.0 3]],
+   :jawaban "A"},
+  :probelm-id "ad08b62bceee4ebc9a219ce0038440f3"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 5 dan r (rasio) = U2 / U1 = 10.0 / 5 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 40.0. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 5, 10.0, 20.0, ... \n</p>\n\n\n",
+   :option [[false 52.0 0] [false 49.0 1] [false 40.0 2] [true 40.0 3]],
+   :jawaban "D"},
+  :probelm-id "aafb2d78aaff4cd89f8b612a2671a643"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 2 dan r (rasio) = U2 / U1 = 4.0 / 2 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 16.0. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 2, 4.0, 8.0, ... \n</p>\n\n\n",
+   :option [[false 24.0 0] [false 26.0 1] [true 16.0 2] [false 35.0 3]],
+   :jawaban "C"},
+  :probelm-id "982d5bb0f21d48a6bc9165e9208d6a25"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 7 dan r (rasio) = U2 / U1 = 14.0 / 7 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 56.0. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 7, 14.0, 28.0, ... \n</p>\n\n\n",
+   :option [[false 60.0 0] [false 72.0 1] [false 68.0 2] [true 56.0 3]],
+   :jawaban "D"},
+  :probelm-id "8380ce30c0ed460aaae0fe230b0d0d56"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 2 dan r (rasio) = U2 / U1 = 4.0 / 2 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 16.0. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 2, 4.0, 8.0, ... \n</p>\n\n\n",
+   :option [[false 23.0 0] [false 23.0 1] [true 16.0 2] [false 33.0 3]],
+   :jawaban "C"},
+  :probelm-id "ec5a0bd7616d4c04815051d99e464c3f"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 2 dan r (rasio) = U2 / U1 = 4.0 / 2 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 16.0. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 2, 4.0, 8.0, ... \n</p>\n\n\n",
+   :option [[false 35.0 0] [false 16.0 1] [false 23.0 2] [true 16.0 3]],
+   :jawaban "D"},
+  :probelm-id "b10e0d4db1ca404389aaf6bb9c1d8274"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 7 dan r (rasio) = U2 / U1 = 21.0 / 7 = 3. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 3. <br>\n Sehingga pola selanjutnya itu adalah 189.0. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 7, 21.0, 63.0, ... \n</p>\n\n\n",
+   :option [[false 199.0 0] [false 205.0 1] [true 189.0 2] [false 200.0 3]],
+   :jawaban "C"},
+  :probelm-id "882a417d60c64edab4f01eaf9bfbddfd"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 7 dan r (rasio) = U2 / U1 = 14.0 / 7 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 56.0. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 7, 14.0, 28.0, ... \n</p>\n\n\n",
+   :option [[false 65.0 0] [false 57.0 1] [true 56.0 2] [false 73.0 3]],
+   :jawaban "C"},
+  :probelm-id "f18e1631aab4445fb853740c28308d9e"}]
+clj꞉progen.Generatemath꞉> 
+#'progen.GenerateVerbal/gen-options
+clj꞉progen.GenerateVerbal꞉> 
+#'progen.GenerateVerbal/mapping
+clj꞉progen.GenerateVerbal꞉> 
+#'progen.GenerateVerbal/generate
+clj꞉progen.GenerateVerbal꞉> 
+[{:topic :verbal-logic,
+  :pembahasan
+  "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+  :soal
+  {:soal-text "\n\nRumah bagus <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+   :option [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+   :jawaban "B"},
+  :probelm-id "0e87087a2c5b4af596108d1d0dae95d9"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+  :soal
+  {:soal-text "\n\nSandal rusak <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+   :option [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+   :jawaban "B"},
+  :probelm-id "f3a35aa1fefa4e30b962dbfb1bd67f67"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+  :soal
+  {:soal-text "\n\nLantai rusak <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+   :option [[true "non pertanyaan" 0] [false "pertanyaan" 1]],
+   :jawaban "A"},
+  :probelm-id "0670d13740ef42cca699d40f1308670b"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+  :soal
+  {:soal-text "\n\nKamera mahal <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+   :option [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+   :jawaban "B"},
+  :probelm-id "e492b2fee09d4792a8295ddc67c2fe8f"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+  :soal
+  {:soal-text "\n\nRumah hitam <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+   :option [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+   :jawaban "B"},
+  :probelm-id "1033099ec54d47d1a561bfcf9ab10023"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+  :soal
+  {:soal-text "\n\nLaptop berantakan <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+   :option [[true "non pertanyaan" 0] [false "pertanyaan" 1]],
+   :jawaban "A"},
+  :probelm-id "2d4b26532f494d538341e60d879c1c3d"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+  :soal
+  {:soal-text "\n\nMajalah baru <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+   :option [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+   :jawaban "B"},
+  :probelm-id "9364d184363d4209a8430e2ffd049f45"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+  :soal
+  {:soal-text "\n\nRumah kusam <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+   :option [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+   :jawaban "B"},
+  :probelm-id "e86cf30abb9647c1a8f3ec3a7b49a9f4"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+  :soal
+  {:soal-text "\n\nBaju mewah <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+   :option [[true "non pertanyaan" 0] [false "pertanyaan" 1]],
+   :jawaban "A"},
+  :probelm-id "9415c648f06c423cb3d1bdcbc1f3100f"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+  :soal
+  {:soal-text "\n\nCermin putih <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+   :option [[true "non pertanyaan" 0] [false "pertanyaan" 1]],
+   :jawaban "A"},
+  :probelm-id "dd485124d2ea45d8abfcd3ac0d01f149"}]
+clj꞉progen.GenerateVerbal꞉> 
+[{:topic :verbal-logic,
+  :pembahasan
+  "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Nio adalah seorang ayah, jadi Nio orang yang berpengalaman. <br>\n Berarti pertama kalian tau kalo Nio itu ayah, <br>\n terus apa bisa langsung ambil kesimpulan Nio itu orang yang berpengalaman? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan ayah sama orang yang berpengalaman, terus tinggal pilih hubungan ayah sama orang yang berpengalaman mana, <br>\n yang bikin kesimpulan Nio itu orang yang berpengalaman jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+  :soal
+  {:soal-text
+   "\n\nNio adalah seorang ayah, jadi Nio itu orang yang berpengalaman <br>\n Kalimat mana yang diperlukan untuk melengkapi argumen? \n</p>\n\n\n",
+   :option
+   [[false "sebagian orang yang berpengalaman itu ayah. " 0]
+    [false "Argumen sudah lengkap." 1]
+    [false "semua orang yang berpengalaman itu ayah. " 2]
+    [false "sebagian ayah itu orang yang berpengalaman. " 3]
+    [true "semua ayah itu orang yang berpengalaman. " 4]],
+   :jawaban "E"},
+  :probelm-id "7e107ccb2d234da19e8ead0e216c19ed"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Jose adalah seorang pengangkat galon, jadi Jose orang yang berkecukupan. <br>\n Berarti pertama kalian tau kalo Jose itu pengangkat galon, <br>\n terus apa bisa langsung ambil kesimpulan Jose itu orang yang berkecukupan? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan pengangkat galon sama orang yang berkecukupan, terus tinggal pilih hubungan pengangkat galon sama orang yang berkecukupan mana, <br>\n yang bikin kesimpulan Jose itu orang yang berkecukupan jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+  :soal
+  {:soal-text
+   "\n\nJose adalah seorang pengangkat galon, jadi Jose itu orang yang berkecukupan <br>\n Kalimat mana yang diperlukan untuk melengkapi argumen? \n</p>\n\n\n",
+   :option
+   [[true "semua pengangkat galon itu orang yang berkecukupan. " 0]
+    [false "sebagian pengangkat galon itu orang yang berkecukupan. " 1]
+    [false "Argumen sudah lengkap." 2]
+    [false "semua orang yang berkecukupan itu pengangkat galon. " 3]
+    [false "sebagian orang yang berkecukupan itu pengangkat galon. " 4]],
+   :jawaban "A"},
+  :probelm-id "76e8569810e44d86b2ac5dafb53b9db7"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Messi adalah seorang nelayan, jadi Messi laki-laki orang dewasa. <br>\n Berarti pertama kalian tau kalo Messi itu nelayan, <br>\n terus apa bisa langsung ambil kesimpulan Messi itu laki-laki orang dewasa? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan nelayan sama laki-laki orang dewasa, terus tinggal pilih hubungan nelayan sama laki-laki orang dewasa mana, <br>\n yang bikin kesimpulan Messi itu laki-laki orang dewasa jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+  :soal
+  {:soal-text
+   "\n\nMessi adalah seorang nelayan, jadi Messi itu laki-laki orang dewasa <br>\n Kalimat mana yang diperlukan untuk melengkapi argumen? \n</p>\n\n\n",
+   :option
+   [[false "sebagian laki-laki orang dewasa itu nelayan. " 0]
+    [false "semua laki-laki orang dewasa itu nelayan. " 1]
+    [false "sebagian nelayan itu laki-laki orang dewasa. " 2]
+    [false "Argumen sudah lengkap." 3]
+    [true "semua nelayan itu laki-laki orang dewasa. " 4]],
+   :jawaban "E"},
+  :probelm-id "086bab0654214e3a920aa1c8952757d4"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Leo adalah seorang satpam, jadi Leo orang yang terampil. <br>\n Berarti pertama kalian tau kalo Leo itu satpam, <br>\n terus apa bisa langsung ambil kesimpulan Leo itu orang yang terampil? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan satpam sama orang yang terampil, terus tinggal pilih hubungan satpam sama orang yang terampil mana, <br>\n yang bikin kesimpulan Leo itu orang yang terampil jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+  :soal
+  {:soal-text
+   "\n\nLeo adalah seorang satpam, jadi Leo itu orang yang terampil <br>\n Kalimat manakah yang dibutuhkan untuk melengkapi argumen? \n</p>\n\n\n",
+   :option
+   [[false "semua orang yang terampil itu satpam. " 0]
+    [true "semua satpam itu orang yang terampil. " 1]
+    [false "sebagian orang yang terampil itu satpam. " 2]
+    [false "sebagian satpam itu orang yang terampil. " 3]
+    [false "Argumen sudah lengkap." 4]],
+   :jawaban "B"},
+  :probelm-id "6d9a2d41453e4c38875be66fb49a9e52"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Tio adalah seorang kurir, jadi Tio kepala keluarga. <br>\n Berarti pertama kalian tau kalo Tio itu kurir, <br>\n terus apa bisa langsung ambil kesimpulan Tio itu kepala keluarga? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan kurir sama kepala keluarga, terus tinggal pilih hubungan kurir sama kepala keluarga mana, <br>\n yang bikin kesimpulan Tio itu kepala keluarga jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+  :soal
+  {:soal-text
+   "\n\nTio adalah seorang kurir, jadi Tio itu kepala keluarga <br>\n Untuk melengkapi argumen, kalimat mana yang diperlukan? \n</p>\n\n\n",
+   :option
+   [[false "sebagian kurir itu kepala keluarga. " 0]
+    [true "semua kurir itu kepala keluarga. " 1]
+    [false "semua kepala keluarga itu kurir. " 2]
+    [false "Argumen sudah lengkap." 3]
+    [false "sebagian kepala keluarga itu kurir. " 4]],
+   :jawaban "B"},
+  :probelm-id "e4776eac63a94948b6cdacf003f1cfd1"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Adit adalah seorang montir, jadi Adit kepala keluarga. <br>\n Berarti pertama kalian tau kalo Adit itu montir, <br>\n terus apa bisa langsung ambil kesimpulan Adit itu kepala keluarga? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan montir sama kepala keluarga, terus tinggal pilih hubungan montir sama kepala keluarga mana, <br>\n yang bikin kesimpulan Adit itu kepala keluarga jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+  :soal
+  {:soal-text
+   "\n\nAdit adalah seorang montir, jadi Adit itu kepala keluarga <br>\n Kalimat manakah yang dibutuhkan untuk melengkapi argumen? \n</p>\n\n\n",
+   :option
+   [[true "semua montir itu kepala keluarga. " 0]
+    [false "sebagian montir itu kepala keluarga. " 1]
+    [false "sebagian kepala keluarga itu montir. " 2]
+    [false "Argumen sudah lengkap." 3]
+    [false "semua kepala keluarga itu montir. " 4]],
+   :jawaban "A"},
+  :probelm-id "ef4fae83285c46e1af5e1d307d9bc1a7"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Aryo adalah seorang montir, jadi Aryo orang yang berpengalaman. <br>\n Berarti pertama kalian tau kalo Aryo itu montir, <br>\n terus apa bisa langsung ambil kesimpulan Aryo itu orang yang berpengalaman? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan montir sama orang yang berpengalaman, terus tinggal pilih hubungan montir sama orang yang berpengalaman mana, <br>\n yang bikin kesimpulan Aryo itu orang yang berpengalaman jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+  :soal
+  {:soal-text
+   "\n\nAryo adalah seorang montir, jadi Aryo itu orang yang berpengalaman <br>\n Kalimat mana yang diperlukan untuk melengkapi argumen? \n</p>\n\n\n",
+   :option
+   [[false "Argumen sudah lengkap." 0]
+    [false "sebagian orang yang berpengalaman itu montir. " 1]
+    [true "semua montir itu orang yang berpengalaman. " 2]
+    [false "semua orang yang berpengalaman itu montir. " 3]
+    [false "sebagian montir itu orang yang berpengalaman. " 4]],
+   :jawaban "C"},
+  :probelm-id "0b9f418274b74f38bf8a69e27b5959d8"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Leo adalah seorang ayah, jadi Leo tulang punggung keluarga. <br>\n Berarti pertama kalian tau kalo Leo itu ayah, <br>\n terus apa bisa langsung ambil kesimpulan Leo itu tulang punggung keluarga? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan ayah sama tulang punggung keluarga, terus tinggal pilih hubungan ayah sama tulang punggung keluarga mana, <br>\n yang bikin kesimpulan Leo itu tulang punggung keluarga jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+  :soal
+  {:soal-text
+   "\n\nLeo adalah seorang ayah, jadi Leo itu tulang punggung keluarga <br>\n Kalimat manakah yang dibutuhkan untuk melengkapi argumen? \n</p>\n\n\n",
+   :option
+   [[true "semua ayah itu tulang punggung keluarga. " 0]
+    [false "sebagian ayah itu tulang punggung keluarga. " 1]
+    [false "semua tulang punggung keluarga itu ayah. " 2]
+    [false "Argumen sudah lengkap." 3]
+    [false "sebagian tulang punggung keluarga itu ayah. " 4]],
+   :jawaban "A"},
+  :probelm-id "e316eb30e8b142dc81b2785cd3792c37"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Aulia adalah seorang supir, jadi Aulia laki-laki orang dewasa. <br>\n Berarti pertama kalian tau kalo Aulia itu supir, <br>\n terus apa bisa langsung ambil kesimpulan Aulia itu laki-laki orang dewasa? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan supir sama laki-laki orang dewasa, terus tinggal pilih hubungan supir sama laki-laki orang dewasa mana, <br>\n yang bikin kesimpulan Aulia itu laki-laki orang dewasa jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+  :soal
+  {:soal-text
+   "\n\nAulia adalah seorang supir, jadi Aulia itu laki-laki orang dewasa <br>\n Untuk melengkapi argumen, kalimat mana yang diperlukan? \n</p>\n\n\n",
+   :option
+   [[false "Argumen sudah lengkap." 0]
+    [false "semua laki-laki orang dewasa itu supir. " 1]
+    [false "sebagian laki-laki orang dewasa itu supir. " 2]
+    [false "sebagian supir itu laki-laki orang dewasa. " 3]
+    [true "semua supir itu laki-laki orang dewasa. " 4]],
+   :jawaban "E"},
+  :probelm-id "410b4316c6d94ff8b698c2e92bebd9e8"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Adit adalah seorang kurir, jadi Adit orang yang berkecukupan. <br>\n Berarti pertama kalian tau kalo Adit itu kurir, <br>\n terus apa bisa langsung ambil kesimpulan Adit itu orang yang berkecukupan? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan kurir sama orang yang berkecukupan, terus tinggal pilih hubungan kurir sama orang yang berkecukupan mana, <br>\n yang bikin kesimpulan Adit itu orang yang berkecukupan jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+  :soal
+  {:soal-text
+   "\n\nAdit adalah seorang kurir, jadi Adit itu orang yang berkecukupan <br>\n Kalimat mana yang diperlukan untuk melengkapi argumen? \n</p>\n\n\n",
+   :option
+   [[false "Argumen sudah lengkap." 0]
+    [false "semua orang yang berkecukupan itu kurir. " 1]
+    [true "semua kurir itu orang yang berkecukupan. " 2]
+    [false "sebagian orang yang berkecukupan itu kurir. " 3]
+    [false "sebagian kurir itu orang yang berkecukupan. " 4]],
+   :jawaban "C"},
+  :probelm-id "70582cbdf75649bca699a995ed861cfc"}]
+clj꞉progen.GenerateVerbal꞉> 
+; nREPL Connection was closed
